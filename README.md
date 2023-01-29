@@ -6,4 +6,4 @@ Este é o meu projeto escrito em C#. Criei uma classe para cada questão, sei qu
 
 A questão 5 foi escrita no VS Code, as demais escrevi no site https://www.programiz.com/csharp-programming/online-compiler/. Subi o projeto para o Git também utilizando o VS Code.
 
-Obs.: Class3 - exercício 4, Class 4 - exercício 5
+Obs.: Ordem de algumas classes: Class3 - exercício 4, Class 4 - exercício 5, Program - exercício 3
